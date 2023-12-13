@@ -12,7 +12,7 @@ namespace TravelTripProje.Models.Classes
         public DbSet<AdresBlog> AdresBlogs { get; set; }
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Hakkimizda> Hakkimizdas { get; set; }
-        public DbSet<iletisim> iletisims { get; set; }
+        //public DbSet<iletisim> iletisims { get; set; }
         public DbSet<Yorumlar> Yorumlars { get; set; }
     }
 }
